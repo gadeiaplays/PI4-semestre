@@ -1,0 +1,1 @@
+animação de todos os peixes devem parar no frame 10 para formar o loop (caso seja necessário o peixe parado, no frame 50 todos os peixes estão "retos").

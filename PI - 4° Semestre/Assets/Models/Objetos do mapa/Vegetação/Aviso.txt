@@ -1,0 +1,1 @@
+So precisa aplicar essas texturas com o fundo transparente em um plano e posicionar onde quiser no mapa
